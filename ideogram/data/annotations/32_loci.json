@@ -8,7 +8,7 @@
   ],
   "annots": [
     {
-      "chr": "chrI",
+      "chr": "I",
       "annots": [
         [
           "chrI",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "chr": "chrII",
+      "chr": "II",
       "annots": [
         [
           "chrII",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "chr": "chrIV",
+      "chr": "IV",
       "annots": [
         [
           "chrIV",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "chr": "chrV",
+      "chr": "V",
       "annots": [
         [
           "chrV",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "chr": "chrVII",
+      "chr": "VII",
       "annots": [
         [
           "chrVII",
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "chr": "chrVIII",
+      "chr": "VIII",
       "annots": [
         [
           "chrVIII",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "chr": "chrX",
+      "chr": "X",
       "annots": [
         [
           "chrX",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "chr": "chrXII",
+      "chr": "XII",
       "annots": [
         [
           "chrXII",
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "chr": "chrXIII",
+      "chr": "XIII",
       "annots": [
         [
           "chrXIII",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "chr": "chrXIV",
+      "chr": "XIV",
       "annots": [
         [
           "chrXIV",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "chr": "chrXV",
+      "chr": "XV",
       "annots": [
         [
           "chrXV",
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "chr": "chrXVI",
+      "chr": "XVI",
       "annots": [
         [
           "chrXVI",
